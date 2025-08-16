@@ -79,7 +79,7 @@ android {
 
     namespace "com.authapp"
     defaultConfig {
-        applicationId "com.authapp"
+        applicationId "com.rn.authapp.android"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
